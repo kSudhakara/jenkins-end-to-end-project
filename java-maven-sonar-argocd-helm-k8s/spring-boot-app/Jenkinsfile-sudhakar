@@ -6,7 +6,7 @@ pipeline {
     }
   }
   environment {
-        GIT_REPO = 'https://github.com/YugeshKumar01/Jenkins-Zero-To-Hero.git'
+        GIT_REPO = 'https://github.com/kSudhakara/jenkins-end-to-end-project.git'
         GIT_USER_NAME = "ksudhakara"
         GIT_USER_EMAIL = "sudhakarak30@gmail.com"
         BRANCH_NAME = 'main' // Change if using a different branch
